@@ -1,4 +1,4 @@
-# 🚀 hey! i'm ishfaq — building things with code
+# ⚡ IshfaqBuilds — turning caffeine, code, and chaos into products.
 
 <div align="center">
   
