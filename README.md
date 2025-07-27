@@ -78,7 +78,7 @@ const ishfaqbuilds = {
 
 </div>
 
-## 📊 GitHub Activity
+## 🌊 GitHub Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishfaqbuilds&bg_color=0d1117&color=0066CC&line=0099FF&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
