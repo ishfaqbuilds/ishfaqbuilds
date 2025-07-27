@@ -94,7 +94,7 @@ const ishfaqbuilds = {
 
 </div>
 
-## 💭 Random Dev Quote
+## 💭 Inspiration
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" />
