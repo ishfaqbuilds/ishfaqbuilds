@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Mohammad Ishfaqul Islam
+# 🚀 hey! i'm ishfaq — building things with code
 
 <div align="center">
   
@@ -19,14 +19,42 @@
 ## 🚀 About Me
 
 ```javascript
-const ishfaq = {
-    pronouns: "He/Him",
-    location: "Chittagong, Bangladesh 🇧🇩",
-    currentFocus: "Learning Programming Fundamentals",
-    currentSkills: ["C", "C++"],
-    nextGoal: "Web Development (HTML, CSS, JavaScript)",
-    hobbies: ["Coding", "Problem Solving", "Learning New Tech"],
-    funFact: "Started with C/C++ and excited to dive into web development! 🚀"
+const ishfaqbuilds = {
+    bittertruth: "computer science sucks",
+    currentStatus: "learning programming fundamentals",
+    techStack: {
+        current: ["c", "c++"],
+        learning: ["html", "css", "javascript"],
+        tools: ["git", "vscode", "github"],
+        wantToLearn: ["react", "node.js", "python"]
+    },
+    goals: {
+        shortTerm: "master web development basics",
+        longTerm: "become a full-stack developer"
+        dream: "build, launch and scale my own tech startup"
+    },
+    personality: {
+    interests: ["problem solving", "clean code", "new technologies"],
+    workStyle: "detail-oriented and persistent",
+    learningStyle: "hands-on practice"
+    },
+    funFacts: {
+        motto: "started with pointers, heading to the web 🌐",
+        favoriteIDE: "vs code with dark theme",
+        debuggingMethod: "cout statements and patience",
+        coffeeOrTea: "tea ☕", // very bengali!
+        codingPlaylist: "lofi beats"
+    },
+    contact: {
+        availability: "open to learning opportunities",
+        email: "sajid.ishfaq.bd@gmail.com",
+        github: "github.com/ishfaqbuilds",
+        preferredContact: "github issues or email"
+    },
+    
+    currentlyReading: "clean code by robert c. martin",
+    nextMilestone: "build my first web project",
+    inspiration: "turning coffee into code, one line at a time"
 };
 ```
 
