@@ -1,4 +1,4 @@
-# ⚡ IshfaqBuilds: Turning Caffeine, Code, and Chaos into Products.
+# ⚡ IshfaqBuilds: Turning Caffeine, Code and Chaos into Products.
 
 <div align="center">
   
