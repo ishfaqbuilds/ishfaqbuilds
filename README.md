@@ -34,9 +34,9 @@ const ishfaqbuilds = {
         dream: "build, launch and scale my own tech startup"
     },
     personality: {
-    interests: ["problem solving", "clean code", "new technologies"],
-    workStyle: "detail-oriented and persistent",
-    learningStyle: "hands-on practice"
+        interests: ["problem solving", "clean code", "new technologies"],
+        workStyle: "detail-oriented and persistent",
+        learningStyle: "hands-on practice"
     },
     funFacts: {
         motto: "started with pointers, heading to the web 🌐",
