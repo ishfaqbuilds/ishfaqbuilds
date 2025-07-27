@@ -1,4 +1,4 @@
-# ⚡ IshfaqBuilds — turning caffeine, code, and chaos into products.
+# ⚡ IshfaqBuilds: Turning Caffeine, Code, and Chaos into Products.
 
 <div align="center">
   
@@ -16,7 +16,7 @@
 
 </div>
 
-## 🚀 About Me
+## Get To Know Me
 
 ```javascript
 const ishfaqbuilds = {
@@ -66,7 +66,7 @@ const ishfaqbuilds = {
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### Learning Soon
+### Learning Soon!
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -84,7 +84,7 @@ const ishfaqbuilds = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishfaqbuilds&bg_color=0d1117&color=0066CC&line=0099FF&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
-## 🤝 Let's Connect!
+## 🌍 Let’s Link Up — Code, Collab, or Ideas?
 
 <div align="center">
   
