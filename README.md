@@ -30,7 +30,7 @@ const ishfaqbuilds = {
     },
     goals: {
         shortTerm: "master web development basics",
-        longTerm: "become a full-stack developer"
+        longTerm: "become a full-stack developer",
         dream: "build, launch and scale my own tech startup"
     },
     personality: {
