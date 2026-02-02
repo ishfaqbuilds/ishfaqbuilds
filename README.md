@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  <!-- Animated Header -->
+  <!-- Animated Header 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=0066CC&center=true&vCenter=true&width=600&height=100&lines=C%2FC%2B%2B+Programmer;Problem+Solver;Future+Web+Developer;Always+Learning!" alt="Typing SVG" />
   
   <!-- Profile Stats with Animation -->
