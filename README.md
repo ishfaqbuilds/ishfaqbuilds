@@ -3,9 +3,9 @@
 <div align="center">
   
   <!-- Animated Header -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=0066CC&center=true&vCenter=true&width=600&height=100&lines=C%2FC%2B%2B+Programmer;Problem+Solver;Future+Web+Developer;Always+Learning!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=0066CC&center=true&vCenter=true&width=600&height=100&lines=C%2FC%2B%2B+Programmer;Problem+Solver;Always+Learning!" alt="Typing SVG" />
   
-  <!-- Profile Stats with Animation -->
+  <!-- Profile Stats with Animation 
   <div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin: 20px 0;">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ishfaqbuilds&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=0066CC&title_color=0066CC&icon_color=0099FF&text_color=ffffff&bg_color=0d1117"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishfaqbuilds&layout=compact&langs_count=7&theme=github_dark&border_color=0066CC&title_color=0066CC&text_color=ffffff&bg_color=0d1117"/>
