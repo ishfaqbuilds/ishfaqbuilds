@@ -9,7 +9,7 @@
 ╚═╝╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝ ╚══▀▀═╝ ╚═════╝  ╚═════╝ ╚═╝╚══════╝╚═════╝ ╚══════╝
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Playwrite+New+Zealand+Basic&size=35&duration=3000&pause=1000&color=0066FF&center=true&vCenter=true&width=600&height=100&lines=C%2FC%2B%2B+Programmer;DevOps+Apprentice;Systems+Thinker!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Playwrite+New+Zealand+Basic&size=35&duration=3000&pause=1000&color=0066FF&center=true&vCenter=true&width=700&height=120&lines=C%2FC%2B%2B+PROGRAMMER;DEVOPS+ENTHUSIAST;LINUX+LOVER;PROBLEM+SOLVER" alt="Typing SVG" />
 
 </div>
 
@@ -21,7 +21,7 @@ const ishfaq = {
     foundation: ["C", "C++"],
     learning: ["Linux", "Git", "Bash", "Python", "Docker"],
     goals: ["Containerize services", "Deploy to production", "Build scalable systems"],
-    focus: "Infrastructure over frontend",
+    focus: "Infrastructure and Automation",
     next: "First containerized service"
 };
 ```
@@ -83,7 +83,7 @@ const ishfaq = {
   
 [![Portfolio](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ishfaqbuilds)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-ishfaqul-islam-638393361?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sajid.ishfaq.bd@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishfaq.builds@gmail.com)
 
 </div>
 
@@ -92,7 +92,7 @@ const ishfaq = {
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0066FF&height=100&section=footer&animation=fadeIn" />
   
-  ### From [ishfaqbuilds](https://github.com/ishfaqbuilds)
+  ### Built by [IshfaqBuilds](https://github.com/ishfaqbuilds)
   
   <img src="https://komarev.com/ghpvc/?username=ishfaqbuilds&label=Profile%20Views&color=0066FF&style=for-the-badge" alt="Profile Views" />
   
