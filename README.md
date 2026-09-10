@@ -47,9 +47,9 @@ const ishfaqbuilds = {
 #### ACADEMIC FOUNDATION
 <table> <tr> <td><img src="https://img.shields.io/badge/OOP-9B59B6?style=for-the-badge&logo=cplusplus&logoColor=white" alt="OOP" /></td> <td><img src="https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="DBMS" /></td> <td><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" /></td> <td><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" /></td> </tr> </table> </div>
 
-## 𝗚𝗶𝘁𝗛𝘂𝗯 𝗔𝗰𝘁𝗶𝘃𝗶𝘁𝘆
+## 𝗚𝗶𝘁𝗛𝘂𝗯 Stats
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ishfaqbuilds&show_icons=true&theme=tokyonight&bg_color=0F172A&hide_border=true" alt="GitHub Stats" /> </div>
+<div align="center"> <img src="https://github-stats-extended.vercel.app/api?username=ishfaqbuilds&show_icons=true&theme=tokyonight&bg_color=0F172A&hide_border=true" alt="GitHub Stats" /> </div>
 
 ## 𝗟𝗲𝘁'𝘀 𝗖𝗼𝗻𝗻𝗲𝗰𝘁
 
