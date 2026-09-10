@@ -9,7 +9,7 @@
 ╚═╝╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝ ╚══▀▀═╝ ╚═════╝  ╚═════╝ ╚═╝╚══════╝╚═════╝ ╚══════╝
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Playwrite+New+Zealand+Basic&size=35&duration=3000&pause=1000&color=0066FF&center=true&vCenter=true&width=700&height=120&lines=CS+STUDENT;PHP+%26+LARAVEL+DEVELOPER;LEARNING+EVERY+DAY;BUILD.+SHIP.+REPEAT;FREELANCER+IN+PROGRESS" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Playwrite+New+Zealand+Basic&size=30&duration=3000&pause=1000&color=0066FF&center=true&vCenter=true&width=700&height=120&lines=CS+STUDENT;FULL-STACK+DEV+IN+TRAINING;BUILD.+SHIP.+REPEAT.;FREELANCER+IN+PROGRESS" alt="Typing SVG" /> </div>
 
 </div>
 
@@ -36,7 +36,7 @@ const ishfaqbuilds = {
 <div align="center">
 
 #### ACTIVE STACK
-<table> <tr> <td><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></td> <td><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></td> <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></td> <td><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /></td> </tr> <tr> <td><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /></td> <td><img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" /></td> <td><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></td> </tr> </table>
+<table> <tr> <td><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></td> <td><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></td> <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></td> <td><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></td> </tr> <tr> <td><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /></td> <td><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /></td> <td><img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" /></td> <td><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></td> </tr> </table>
 
 #### EXPLORING
 <table> <tr> <td><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /></td> <td><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" /></td> <td><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></td> </tr> </table>
@@ -49,9 +49,7 @@ const ishfaqbuilds = {
 
 ## 𝗚𝗶𝘁𝗛𝘂𝗯 𝗔𝗰𝘁𝗶𝘃𝗶𝘁𝘆
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishfaqbuilds&bg_color=0F172A&color=0066FF&line=0066FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ishfaqbuilds&show_icons=true&theme=tokyonight&bg_color=0F172A&hide_border=true" alt="GitHub Stats" /> </div>
 
 ## 𝗟𝗲𝘁'𝘀 𝗖𝗼𝗻𝗻𝗲𝗰𝘁
 
