@@ -16,21 +16,15 @@
 ## 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲
 
 ```javascript
-const ishfaq = {
-    status: "2nd Year CS Student · Bangladesh",
-    ambition: "PHP & Laravel Full-Stack Developer",
+const ishfaqbuilds = {
+    status: "3rd Year CS Student · Bangladesh",
+    ambition: "Full-Stack Developer → Remote Work & Freelancing",
     philosophy: "Build real things. Ship fast. Learn daily.",
     
     foundation: ["C", "C++"],
-    currentlyLearning: ["PHP 8", "Laravel 11", "MySQL", "Git & GitHub"],
-
-    learningPath: [
-        "PHP Basics (Laracasts — in progress)",
-        "Laravel From Scratch 2026 (Laracasts)",
-        "Laravel Mastery — 5 Real Projects (Udemy)"
-    ],
+    activeStack: ["HTML", "CSS", "JavaScript", "Node.js", "Express.js", "React", "PostgreSQL"],
+    exploring: ["PHP", "Laravel", "MySQL"],
     
-    stack: ["PHP", "Laravel", "MySQL", "Blade", "Tailwind CSS"],
     tools: ["VS Code", "Git", "GitHub", "Claude AI", "GitHub Copilot"],
     
     contact: "ishfaq.builds@gmail.com"
@@ -41,46 +35,17 @@ const ishfaq = {
 
 <div align="center">
 
-#### CURRENTLY LEARNING
-<table>
-  <tr>
-    <td><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /></td>
-    <td><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" /></td>
-    <td><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></td>
-    <td><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" /></td>
-  </tr>
-</table>
+#### ACTIVE STACK
+<table> <tr> <td><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></td> <td><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></td> <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></td> <td><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /></td> </tr> <tr> <td><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /></td> <td><img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" /></td> <td><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></td> </tr> </table>
+
+#### EXPLORING
+<table> <tr> <td><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /></td> <td><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" /></td> <td><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></td> </tr> </table>
 
 #### TOOLS & WORKFLOW
-<table>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></td>
-    <td><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></td>
-    <td><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" /></td>
-    <td><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /></td>
-  </tr>
-</table>
+<table> <tr> <td><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></td> <td><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></td> <td><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" /></td> <td><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /></td> </tr> </table>
 
 #### ACADEMIC FOUNDATION
-<table>
-  <tr>
-    <td><img src="https://img.shields.io/badge/OOP-9B59B6?style=for-the-badge&logo=cplusplus&logoColor=white" alt="OOP" /></td>
-    <td><img src="https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="DBMS" /></td>
-    <td><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" /></td>
-    <td><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" /></td>
-  </tr>
-</table>
-
-#### COMING NEXT
-<table>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Livewire-FB70A9?style=for-the-badge&logo=laravel&logoColor=white" alt="Livewire" /></td>
-    <td><img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST API" /></td>
-    <td><img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=black" alt="Alpine.js" /></td>
-  </tr>
-</table>
-
-</div>
+<table> <tr> <td><img src="https://img.shields.io/badge/OOP-9B59B6?style=for-the-badge&logo=cplusplus&logoColor=white" alt="OOP" /></td> <td><img src="https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="DBMS" /></td> <td><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" /></td> <td><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" /></td> </tr> </table> </div>
 
 ## 𝗚𝗶𝘁𝗛𝘂𝗯 𝗔𝗰𝘁𝗶𝘃𝗶𝘁𝘆
 
